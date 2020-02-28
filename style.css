@@ -1,0 +1,26 @@
+.sticky {
+ position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: green;
+  border: 2px solid #4CAF50;
+}
+
+.zoboomafu {
+  float: right;
+  overflow: auto;
+}
+
+.krattbrothers {
+  position: absolute;
+  top:2000px;
+  left: 300px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+p {
+overflow: auto;
+}
+
